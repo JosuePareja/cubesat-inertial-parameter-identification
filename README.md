@@ -53,7 +53,3 @@ This is the final package used for the article, including:
 - results_macros.tex;
 - v2 corrections for LaTeX line breaks and kg m^2 units.
 
-IMPORTANT:
-The InnoCube, TPA-1, SOURCE, and M3Sat parameter files contain
-third-party information. Keep the repository PRIVATE until the corresponding
-permissions to redistribute these data have been obtained.
